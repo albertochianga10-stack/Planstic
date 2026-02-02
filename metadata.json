@@ -1,0 +1,5 @@
+{
+  "name": "Kizua Trends - Analisador de Mercado Angola",
+  "description": "Uma plataforma inteligente para arquitetos de negócios e empreendedores em Angola, utilizando a API Gemini e dados do Google Trends para identificar oportunidades de comércio em tempo real.",
+  "requestFramePermissions": []
+}
